@@ -37,8 +37,16 @@
 
  ## Template 
  - You will notice that each person has 2 sets of brackets around them, example: [[Father]], this lets you do a right click on each person and --> create file.
+
+
  - You can have a file on each person and you can input much more detailed information such as full name, date of birth, place of Birth, date of death, text/many notes and any amount of text, import screenshots, photos, .txt files etc.. 
- - [Download this Template](https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/Ancestry_template.md) in .md format, then, in Obsidian click **create new Vault** --> **create new file** --> and simply **drag the Ancestry_template.md file into the newly created file.** 
+
+
+ - [Download the Ancestry Template](https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/Ancestry_template.md) in .md format, then, in Obsidian click **create new Vault** --> **create new file** --> and simply **drag the Ancestry_template.md file into the newly created file.** 
+
+- I also made an Intelligence Template for people searches, based on Surveillance and Law Enforcement files, you can download it here: https://github.com/C3n7ral051nt4g3ncy/Obsidian/blob/master/person_intelligence.md
+
+
  <br>
 
  ### Good luck with your Ancestry Investigation !!! 🕵️‍♂️
